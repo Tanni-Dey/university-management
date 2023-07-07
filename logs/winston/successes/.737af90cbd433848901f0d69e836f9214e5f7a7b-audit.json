@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\.737af90cbd433848901f0d69e836f9214e5f7a7b-audit.json",
+    "files": [
+        {
+            "date": 1688056074585,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-06-29-22-success.log",
+            "hash": "1a50a5ae25ba2059f446c38bd05ee1958328516a8298d306ac24d925e9ec0616"
+        },
+        {
+            "date": 1688204481333,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-15-success.log",
+            "hash": "cf371a8338d330bd71635561ce2e13e9cd5dd7c7178f49919b9d931f89777d0f"
+        },
+        {
+            "date": 1688205734430,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-16-success.log",
+            "hash": "ba8132a3465f4857a203a7289e5084e6ba0e2a918fcb83b630f8271ef184cd29"
+        },
+        {
+            "date": 1688209333535,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-17-success.log",
+            "hash": "96460152fc0020db603ebf13b08df243b507ac076972605ea2abefd840339bcc"
+        },
+        {
+            "date": 1688219261104,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-19-success.log",
+            "hash": "6ff1b337fd0f4213295c3db2b4e286843be6e0afb923e930c48323249e94414b"
+        },
+        {
+            "date": 1688221572667,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-20-success.log",
+            "hash": "6fff4bbc6a966223df4f73878bcdba0fe70b1e5758b3edc1f8ef158b35c55cf4"
+        },
+        {
+            "date": 1688224211044,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-21-success.log",
+            "hash": "9a64ba07393c8ae4db0a22e9f343b17cec26863ae84dac9891d0340750338699"
+        },
+        {
+            "date": 1688290767476,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-02-15-success.log",
+            "hash": "c76b86b2219b98e117dbf5ac4966ab89ba7706302fe141adf377008e0dffbcc7"
+        },
+        {
+            "date": 1688294324102,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-02-16-success.log",
+            "hash": "833c9afb1b48e9b66a41e0bbbe2c725d1c614bcd5393c95f221839c6f55d9ca3"
+        },
+        {
+            "date": 1688313947398,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-02-22-success.log",
+            "hash": "4b58c81b3ff1bd40af6818152dfbdb4f54bef457ee61e105953b0b41754c7c6c"
+        },
+        {
+            "date": 1688653793352,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-06-20-success.log",
+            "hash": "a1632c111d7b78d0c3c391763798165d6e3bbd30b831470666c75524baab24b0"
+        },
+        {
+            "date": 1688655670143,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-06-21-success.log",
+            "hash": "87467fa26161161c2c7e900dfc8f67bd198c99b771d3d57ccef78b26da373a49"
+        },
+        {
+            "date": 1688659538038,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-06-22-success.log",
+            "hash": "5bf571cee875877e4730a9f109cffa632caa1e7bfa8132ed41e8c88f6a1381c4"
+        }
+    ],
+    "hashType": "sha256"
+}

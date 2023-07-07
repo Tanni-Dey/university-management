@@ -1,6 +1,7 @@
-import express, { Application, Request, Response } from 'express'
 import cors from 'cors'
-import router from './app/modules/users/users.route'
+import express, { Application } from 'express'
+import globalErrorHandler from './app/middleware/globalErrorHandler'
+import router from './app/modules/users/user.route'
 
 const app: Application = express()
 app.use(cors())
@@ -11,14 +12,11 @@ app.use(express.urlencoded({ extended: true }))
 
 app.use('/api/v1/users', router)
 
-app.get('/', async (req: Request, res: Response) => {
-  // await usersService.createUser({
-  //   id: '973',
-  //   password: 'university-pass',
-  //   role: 'student',
-  // })
-  res.send('University management')
-  // res.send(user)
-})
+//test
+// app.get('/', (req: Request, res: Response) => {
+//   throw new ApiErrors(400, 'orebaba')
+// })
+
+app.use(globalErrorHandler)
 
 export default app

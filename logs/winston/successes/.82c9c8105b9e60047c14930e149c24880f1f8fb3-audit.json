@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\.82c9c8105b9e60047c14930e149c24880f1f8fb3-audit.json",
+    "files": [
+        {
+            "date": 1688056074593,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-06-29-22-error.log",
+            "hash": "346eb9a51afabf75c9960168d7d693fa5e6a5b215d1a77a8c2e1b0f90d6f81b2"
+        },
+        {
+            "date": 1688204481369,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-15-error.log",
+            "hash": "f914030f96dc99b247d3b2f6340b726bfc61a6fd42b41f1fec7865a8c7b0bf07"
+        },
+        {
+            "date": 1688205734438,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-16-error.log",
+            "hash": "5c9357c206bf0d58c0d313cd35b96d06e96ab3a2d06846c0bb673fdc487c9aa3"
+        },
+        {
+            "date": 1688209333542,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-17-error.log",
+            "hash": "37ab9e64164bc4b66bd8666d57caab77426f4ecf659eaf8d32205cbd3dab7d89"
+        },
+        {
+            "date": 1688219261148,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-19-error.log",
+            "hash": "fb96e0cdb8a30fe07bea506e7c5fde5752f47823a2a8145373525f37a0637640"
+        },
+        {
+            "date": 1688221572677,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-20-error.log",
+            "hash": "f3747565511f6bd98694a8453e524fa36983ecd7ba3153d03dfa90d1b481f319"
+        },
+        {
+            "date": 1688224211098,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-01-21-error.log",
+            "hash": "bef3814391b26e31d0f4d1ea4067acbd99e7c7a22d91a2c68882f9d17b1c2b46"
+        },
+        {
+            "date": 1688290767489,
+            "name": "F:\\Important Data\\Programming Hero\\level-2-apollo\\university-mangement\\logs\\winston\\successes\\Ph-2023-07-02-15-error.log",
+            "hash": "d69001ea12c9d50495988fe38cf951ad0a7ac2df6e6326c457a80dcd460dc99a"
+        }
+    ],
+    "hashType": "sha256"
+}
