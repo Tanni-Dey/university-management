@@ -1,15 +1,16 @@
 import { Router } from 'express'
 import { ValidationRequest } from '../../middleware/validationRequest'
+import { academicSemesterControllar } from './academicSemester.controllar'
 import { createAcademicSemesterZodSchema } from './academicSemester.validation'
 // import usersControllar from './user.controllar'
 // import { createUserZodSchema } from './user.validation'
 
-const router = Router()
+const academicSemesterRouter = Router()
 
-router.post(
-  '/create-user',
-  ValidationRequest(createAcademicSemesterZodSchema)
-  // usersControllar.createUsers
+academicSemesterRouter.post(
+  '/create-academic-semester',
+  ValidationRequest(createAcademicSemesterZodSchema),
+  academicSemesterControllar.createAcademicSemesters
 )
 
-export default router
+export default academicSemesterRouter

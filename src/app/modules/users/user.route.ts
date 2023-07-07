@@ -3,12 +3,12 @@ import { ValidationRequest } from '../../middleware/validationRequest'
 import usersControllar from './user.controllar'
 import { createUserZodSchema } from './user.validation'
 
-const router = Router()
+const userRouter = Router()
 
-router.post(
+userRouter.post(
   '/create-user',
   ValidationRequest(createUserZodSchema),
   usersControllar.createUsers
 )
 
-export default router
+export default userRouter
