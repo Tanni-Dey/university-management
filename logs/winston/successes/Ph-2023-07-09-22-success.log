@@ -1,0 +1,6 @@
+{
+  level: 'info',
+  message: 'university mangment listening on port',
+  label: 'university-management',
+  timestamp: '2023-07-09T16:24:36.563Z'
+}
